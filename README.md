@@ -10,11 +10,11 @@
 </div>
 
 
-- 🔭 I’m currently working on [Sketch-my-day](sketch-my-day.vercel.app)
+- I’m currently working on [Sketch-my-day](sketch-my-day.vercel.app)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, and Linux OS**
+- I’m currently learning **Docker, Kubernetes, and Linux OS**
 
-- 📫 How to reach me **jaehyukc1223@gmail.com**
+- How to reach me **jaehyukc1223@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
