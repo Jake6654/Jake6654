@@ -10,7 +10,7 @@
 </div>
 
 
-- I’m currently working on [Sketch-my-day]([sketch-my-day.vercel.app](https://sketch-my-day.vercel.app/) and [OpsLens](https://frontend-mu-beige-83.vercel.app/)
+- I’m currently working on [Sketch-my-day](https://sketch-my-day.vercel.app/) and [OpsLens](https://frontend-mu-beige-83.vercel.app/)
 
 - I’m currently learning **Docker, Kubernetes, and Linux OS**
 
